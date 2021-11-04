@@ -1,0 +1,10 @@
+.text {
+  font-size: small;
+}
+.img {
+  border-radius: 5px;
+}
+.title {
+  margin: 10px 0;
+  color: rgb(0, 3, 41);
+}
